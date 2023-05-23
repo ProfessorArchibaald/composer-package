@@ -12,5 +12,8 @@
             "email": "85070971+Archibald01@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0"
+    }
 }
+
