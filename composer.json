@@ -1,0 +1,16 @@
+{
+    "name": "professor-archibaald/composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ProfessorArchibaald\\ComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Archibald01",
+            "email": "85070971+Archibald01@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
